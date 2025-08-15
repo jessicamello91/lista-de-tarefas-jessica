@@ -52,13 +52,6 @@ Siga os passos abaixo para executar o projeto em seu navegador:
 ```bash
 git clone https://github.com/jessicamello91/lista-de-tarefas-jessica.git
 
-## 💡 Próximos Passos (Ideias Futuras)
-
-- Armazenar tarefas no navegador com `localStorage`  
-- Filtros: "Todas", "Pendentes", "Concluídas"  
-- Opção de editar tarefas  
-- Temas claro/escuro
-
 ---
 
 
