@@ -7,7 +7,6 @@ Este projeto é uma aplicação web simples e funcional criada para ajudar no ge
 ## 🎯 Objetivo
 
 Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
-
 - Organizar suas tarefas diárias  
 - Marcar tarefas concluídas com facilidade  
 - Excluir tarefas que já não são mais necessárias
@@ -15,7 +14,6 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
@@ -24,7 +22,6 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 ---
 
 ## ⚙️ Funcionalidades
-
 ✅ **Adicionar tarefas**  
 ✅ **Marcar como concluída** (clique na tarefa)  
 ✅ **Remover tarefas** com um clique  
@@ -34,7 +31,6 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 ## 🖼️ Layout da Interface
 
 A interface foi projetada para ser limpa e objetiva:
-
 - Campo de entrada para novas tarefas  
 - Lista com tarefas que podem ser marcadas e removidas  
 
