@@ -1,41 +1,54 @@
 # 📝 Lista de Tarefas - Jessica
 
-Este projeto é uma aplicação web simples para gerenciamento de tarefas diárias, desenvolvida para facilitar a organização pessoal. Com uma interface intuitiva, o usuário pode adicionar, marcar como concluída e remover tarefas de forma rápida e eficiente.  
+Bem-vindo(a) ao projeto **Lista de Tarefas - Jessica**!  
+Esta é uma aplicação web simples e funcional criada para ajudar no gerenciamento do seu dia a dia, com foco em produtividade e organização pessoal.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo
 
-- Construir uma aplicação prática que auxilie na organização do dia a dia  
+Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 
+- Organizar suas tarefas diárias  
+- Marcar tarefas concluídas com facilidade  
+- Excluir tarefas que já não são mais necessárias
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)  
-- Git & GitHub
+- `HTML5`  
+- `CSS3`  
+- `JavaScript (Vanilla JS)`  
+- `Git & GitHub`
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- ➕ Adicionar novas tarefas  
-- ✅ Marcar tarefas como concluídas (clicando sobre elas)  
-- ❌ Remover tarefas da lista
+✅ **Adicionar tarefas**  
+✅ **Marcar como concluída** (clique na tarefa)  
+✅ **Remover tarefas** com um clique  
+✅ **Interface leve e responsiva**
 
 ---
 
-## 🚀 Como Usar
+## 🖼️ Layout da Interface
 
-Siga os passos abaixo para rodar o projeto no seu computador:
+A interface foi projetada para ser limpa e objetiva:
 
-1. **Clone o repositório**
+- Campo de entrada para novas tarefas  
+- Botão de "Adicionar"  
+- Lista com tarefas que podem ser marcadas e removidas  
+- Cores suaves e design moderno
 
-Abra o terminal (Prompt de Comando, Git Bash, Terminal, etc.) e execute o comando:
+---
+
+## 🚀 Como Rodar o Projeto Localmente
+
+Siga os passos abaixo para executar o projeto em seu navegador:
+
+1. **Clone o repositório:**
 
 ```bash
 git clone https://github.com/jessicamello91/lista-de-tarefas-jessica.git
-
