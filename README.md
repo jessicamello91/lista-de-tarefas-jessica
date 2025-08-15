@@ -22,6 +22,11 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 - `Git & GitHub`
 
 ---
+📞 Contato
+
+Se quiser entrar em contato para dúvidas, sugestões ou colaborações:
+
+💼 LinkedIn – Jéssica Mello
 
 ## ⚙️ Funcionalidades
 
@@ -43,7 +48,7 @@ A interface foi projetada para ser limpa e objetiva:
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
+## 🚀 Como Rodar o Projeto 
 
 Siga os passos abaixo para executar o projeto em seu navegador:
 
