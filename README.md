@@ -1,7 +1,6 @@
 # 📝 Lista de Tarefas - Jessica
-
-Bem-vindo(a) ao projeto **Lista de Tarefas - Jessica**!  
-Esta é uma aplicação web simples e funcional criada para ajudar no gerenciamento do seu dia a dia, com foco em produtividade e organização pessoal.
+  
+Este projeto é uma aplicação web simples e funcional criada para ajudar no gerenciamento do seu dia a dia, com foco em produtividade e organização pessoal.
 
 ---
 
