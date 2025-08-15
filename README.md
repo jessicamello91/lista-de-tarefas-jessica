@@ -36,17 +36,6 @@ A interface foi projetada para ser limpa e objetiva:
 
 ---
 
-## 🚀 Como Rodar o Projeto 
-
-Siga os passos abaixo para executar o projeto em seu navegador:
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/jessicamello91/lista-de-tarefas-jessica.git
-
----
-
 ## 👩‍💻 Desenvolvido por
 
 **Jessica Mello**
