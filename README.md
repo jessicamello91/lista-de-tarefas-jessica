@@ -51,7 +51,9 @@ Siga os passos abaixo para executar o projeto em seu navegador:
 git clone https://github.com/jessicamello91/lista-de-tarefas-jessica.git
 
 ---
-📞 Contato
-Se quiser entrar em contato para dúvidas, sugestões ou colaborações:
+
+##  📞 Contato
 💼 LinkedIn – www.linkedin.com/in/jéssica-mello-a7199b322
+
+---
 
