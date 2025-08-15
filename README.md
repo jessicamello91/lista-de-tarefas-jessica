@@ -28,7 +28,6 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 ✅ **Adicionar tarefas**  
 ✅ **Marcar como concluída** (clique na tarefa)  
 ✅ **Remover tarefas** com um clique  
-✅ **Interface leve e responsiva**
 
 ---
 
