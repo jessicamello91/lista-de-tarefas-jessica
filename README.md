@@ -2,16 +2,12 @@
 
 Este projeto é uma aplicação web simples para gerenciamento de tarefas diárias, desenvolvida para facilitar a organização pessoal. Com uma interface intuitiva, o usuário pode adicionar, marcar como concluída e remover tarefas de forma rápida e eficiente.  
 
-Feito para aprimorar conhecimentos em desenvolvimento front-end e lógica de programação.
-
 ---
 
 ## 🎯 Objetivo do Projeto
 
 - Construir uma aplicação prática que auxilie na organização do dia a dia  
-- Desenvolver habilidades em manipulação do DOM e eventos com JavaScript  
-- Entender o fluxo de criação, estilização e funcionalidade de um projeto web básico  
-- Aprender a usar Git e GitHub para versionamento e publicação de projetos
+
 
 ---
 
