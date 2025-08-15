@@ -37,9 +37,7 @@ Desenvolver uma aplicação prática e intuitiva que auxilie os usuários a:
 A interface foi projetada para ser limpa e objetiva:
 
 - Campo de entrada para novas tarefas  
-- Botão de "Adicionar"  
 - Lista com tarefas que podem ser marcadas e removidas  
-- Cores suaves e design moderno
 
 ---
 
