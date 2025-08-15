@@ -52,6 +52,11 @@ Siga os passos abaixo para executar o projeto em seu navegador:
 ```bash
 git clone https://github.com/jessicamello91/lista-de-tarefas-jessica.git
 
+## 👩‍💻 Desenvolvido por
+
+**Jessica Mello**  
+[GitHub](https://github.com/jessicamello91) | [LinkedIn](https://www.linkedin.com/in/j%C3%A9ssica-mello-a7199b322)
+
 ---
 
 
